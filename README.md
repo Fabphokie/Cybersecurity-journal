@@ -19,7 +19,7 @@ My ultimate goal is to gain practical knowledge in cybersecurity and become prof
 
 I will document my weekly progress here, outlining the topics I've covered, exercises completed, and any tools or resources I've used.
 
-### Week 1: Introduction to Cybersecurity
+### [Week 1: Introduction to Cybersecurity](logs/week1.md)
 - [ ] Completed an overview of cybersecurity basics.
 - [ ] Set up a home lab using VirtualBox and Kali Linux.
 - [ ] Learned about the **CIA Triad** (Confidentiality, Integrity, Availability).
