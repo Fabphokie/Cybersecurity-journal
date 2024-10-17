@@ -114,7 +114,3 @@ A network topology is the arrangement of nodes and links in a network. Below are
 - **Disadvantages**:
   - Limited to two devices.
   - Not suitable for large networks.
-
----
-
-**Note**: Diagrams and more details can be added in a final presentation format if required.
